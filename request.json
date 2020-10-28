@@ -10,8 +10,8 @@ Inaccessible Island rails live only on Inaccessible Island; it appears, as far a
     "extractSyntax": true,
     "extractEntities": true,
     "extractDocumentSentiment": true,
-    "extractEntitySentiment": false,
-    "classifyText": false
+    "extractEntitySentiment": true,
+    "classifyText": true
   },
   "encodingType": "UTF8"
 }
