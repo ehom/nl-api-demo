@@ -72,12 +72,22 @@
     },
     {
       "text": {
-        "content": "Inaccessible Island rails live only on Inaccessible Island; it appears, as far as any evidence shows, that they never even made it to the neighboring Nightingale Island.“No one really knew the history, says Stervander, now a postdoctoral research fellow at the University of Oregon’s Institute of Ecology and Evolution.",
+        "content": "Inaccessible Island rails live only on Inaccessible Island; it appears, as far as any evidence shows, that they never even made it to the neighboring Nightingale Island.",
         "beginOffset": 854
       },
       "sentiment": {
         "magnitude": 0.6,
         "score": -0.6
+      }
+    },
+    {
+      "text": {
+        "content": "\"No one really knew the history\", says Stervander, now a postdoctoral research fellow at the University of Oregon’s Institute of Ecology and Evolution.",
+        "beginOffset": 1024
+      },
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
       }
     },
     {
@@ -4512,8 +4522,8 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 211,
-        "label": "CCOMP"
+        "headTokenIndex": 176,
+        "label": "ROOT"
       },
       "lemma": "live"
     },
@@ -5104,7 +5114,7 @@
         "form": "FORM_UNKNOWN",
         "gender": "GENDER_UNKNOWN",
         "mood": "MOOD_UNKNOWN",
-        "number": "NUMBER_UNKNOWN",
+        "number": "SINGULAR",
         "person": "PERSON_UNKNOWN",
         "proper": "PROPER_UNKNOWN",
         "reciprocity": "RECIPROCITY_UNKNOWN",
@@ -5144,7 +5154,7 @@
     },
     {
       "text": {
-        "content": "Island.",
+        "content": "Island",
         "beginOffset": 1016
       },
       "partOfSpeech": {
@@ -5165,12 +5175,12 @@
         "headTokenIndex": 198,
         "label": "POBJ"
       },
-      "lemma": "Island."
+      "lemma": "Island"
     },
     {
       "text": {
-        "content": "“",
-        "beginOffset": 1023
+        "content": ".",
+        "beginOffset": 1022
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -5187,15 +5197,40 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 196,
+        "headTokenIndex": 176,
         "label": "P"
       },
-      "lemma": "“"
+      "lemma": "."
+    },
+    {
+      "text": {
+        "content": "\"",
+        "beginOffset": 1024
+      },
+      "partOfSpeech": {
+        "tag": "PUNCT",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 213,
+        "label": "P"
+      },
+      "lemma": "\""
     },
     {
       "text": {
         "content": "No",
-        "beginOffset": 1026
+        "beginOffset": 1025
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -5212,7 +5247,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 205,
+        "headTokenIndex": 206,
         "label": "NEG"
       },
       "lemma": "No"
@@ -5220,7 +5255,7 @@
     {
       "text": {
         "content": "one",
-        "beginOffset": 1029
+        "beginOffset": 1028
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -5237,7 +5272,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 207,
+        "headTokenIndex": 208,
         "label": "NSUBJ"
       },
       "lemma": "one"
@@ -5245,7 +5280,7 @@
     {
       "text": {
         "content": "really",
-        "beginOffset": 1033
+        "beginOffset": 1032
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -5262,7 +5297,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 207,
+        "headTokenIndex": 208,
         "label": "ADVMOD"
       },
       "lemma": "really"
@@ -5270,7 +5305,7 @@
     {
       "text": {
         "content": "knew",
-        "beginOffset": 1040
+        "beginOffset": 1039
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -5287,7 +5322,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 196,
+        "headTokenIndex": 213,
         "label": "CCOMP"
       },
       "lemma": "know"
@@ -5295,7 +5330,7 @@
     {
       "text": {
         "content": "the",
-        "beginOffset": 1045
+        "beginOffset": 1044
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -5312,7 +5347,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 209,
+        "headTokenIndex": 210,
         "label": "DET"
       },
       "lemma": "the"
@@ -5320,7 +5355,7 @@
     {
       "text": {
         "content": "history",
-        "beginOffset": 1049
+        "beginOffset": 1048
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -5337,10 +5372,35 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 207,
+        "headTokenIndex": 208,
         "label": "DOBJ"
       },
       "lemma": "history"
+    },
+    {
+      "text": {
+        "content": "\"",
+        "beginOffset": 1055
+      },
+      "partOfSpeech": {
+        "tag": "PUNCT",
+        "aspect": "ASPECT_UNKNOWN",
+        "case": "CASE_UNKNOWN",
+        "form": "FORM_UNKNOWN",
+        "gender": "GENDER_UNKNOWN",
+        "mood": "MOOD_UNKNOWN",
+        "number": "NUMBER_UNKNOWN",
+        "person": "PERSON_UNKNOWN",
+        "proper": "PROPER_UNKNOWN",
+        "reciprocity": "RECIPROCITY_UNKNOWN",
+        "tense": "TENSE_UNKNOWN",
+        "voice": "VOICE_UNKNOWN"
+      },
+      "dependencyEdge": {
+        "headTokenIndex": 210,
+        "label": "P"
+      },
+      "lemma": "\""
     },
     {
       "text": {
@@ -5362,7 +5422,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 211,
+        "headTokenIndex": 213,
         "label": "P"
       },
       "lemma": ","
@@ -5387,7 +5447,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 211,
+        "headTokenIndex": 213,
         "label": "ROOT"
       },
       "lemma": "say"
@@ -5412,7 +5472,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 211,
+        "headTokenIndex": 213,
         "label": "NSUBJ"
       },
       "lemma": "Stervander"
@@ -5437,7 +5497,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 212,
+        "headTokenIndex": 214,
         "label": "P"
       },
       "lemma": ","
@@ -5462,7 +5522,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 218,
+        "headTokenIndex": 220,
         "label": "ADVMOD"
       },
       "lemma": "now"
@@ -5487,7 +5547,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 218,
+        "headTokenIndex": 220,
         "label": "DET"
       },
       "lemma": "a"
@@ -5512,7 +5572,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 218,
+        "headTokenIndex": 220,
         "label": "AMOD"
       },
       "lemma": "postdoctoral"
@@ -5537,7 +5597,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 218,
+        "headTokenIndex": 220,
         "label": "NN"
       },
       "lemma": "research"
@@ -5562,7 +5622,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 212,
+        "headTokenIndex": 214,
         "label": "RCMOD"
       },
       "lemma": "fellow"
@@ -5587,7 +5647,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 218,
+        "headTokenIndex": 220,
         "label": "PREP"
       },
       "lemma": "at"
@@ -5612,7 +5672,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 221,
+        "headTokenIndex": 223,
         "label": "DET"
       },
       "lemma": "the"
@@ -5637,7 +5697,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 219,
+        "headTokenIndex": 221,
         "label": "POBJ"
       },
       "lemma": "University"
@@ -5662,7 +5722,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 221,
+        "headTokenIndex": 223,
         "label": "PREP"
       },
       "lemma": "of"
@@ -5687,7 +5747,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 225,
+        "headTokenIndex": 227,
         "label": "POSS"
       },
       "lemma": "Oregon"
@@ -5712,7 +5772,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 223,
+        "headTokenIndex": 225,
         "label": "PS"
       },
       "lemma": "’s"
@@ -5737,7 +5797,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 222,
+        "headTokenIndex": 224,
         "label": "POBJ"
       },
       "lemma": "Institute"
@@ -5762,7 +5822,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 225,
+        "headTokenIndex": 227,
         "label": "PREP"
       },
       "lemma": "of"
@@ -5787,7 +5847,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 226,
+        "headTokenIndex": 228,
         "label": "POBJ"
       },
       "lemma": "Ecology"
@@ -5812,7 +5872,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 227,
+        "headTokenIndex": 229,
         "label": "CC"
       },
       "lemma": "and"
@@ -5837,7 +5897,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 227,
+        "headTokenIndex": 229,
         "label": "CONJ"
       },
       "lemma": "Evolution"
@@ -5862,7 +5922,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 211,
+        "headTokenIndex": 213,
         "label": "P"
       },
       "lemma": "."
@@ -5887,7 +5947,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 242,
+        "headTokenIndex": 244,
         "label": "PREP"
       },
       "lemma": "With"
@@ -5912,7 +5972,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 233,
+        "headTokenIndex": 235,
         "label": "DET"
       },
       "lemma": "a"
@@ -5937,7 +5997,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 231,
+        "headTokenIndex": 233,
         "label": "POBJ"
       },
       "lemma": "sample"
@@ -5962,7 +6022,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 233,
+        "headTokenIndex": 235,
         "label": "PREP"
       },
       "lemma": "of"
@@ -5987,7 +6047,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 236,
+        "headTokenIndex": 238,
         "label": "DET"
       },
       "lemma": "a"
@@ -6012,7 +6072,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 239,
+        "headTokenIndex": 241,
         "label": "POSS"
       },
       "lemma": "rail"
@@ -6037,7 +6097,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 236,
+        "headTokenIndex": 238,
         "label": "PS"
       },
       "lemma": "’s"
@@ -6062,7 +6122,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 239,
+        "headTokenIndex": 241,
         "label": "AMOD"
       },
       "lemma": "genetic"
@@ -6087,7 +6147,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 234,
+        "headTokenIndex": 236,
         "label": "POBJ"
       },
       "lemma": "material"
@@ -6112,7 +6172,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 242,
+        "headTokenIndex": 244,
         "label": "P"
       },
       "lemma": ","
@@ -6137,7 +6197,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 242,
+        "headTokenIndex": 244,
         "label": "NSUBJ"
       },
       "lemma": "he"
@@ -6162,7 +6222,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 242,
+        "headTokenIndex": 244,
         "label": "ROOT"
       },
       "lemma": "aime"
@@ -6187,7 +6247,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 245,
+        "headTokenIndex": 247,
         "label": "AUX"
       },
       "lemma": "to"
@@ -6212,7 +6272,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 245,
+        "headTokenIndex": 247,
         "label": "ADVMOD"
       },
       "lemma": "finally"
@@ -6237,7 +6297,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 242,
+        "headTokenIndex": 244,
         "label": "XCOMP"
       },
       "lemma": "answer"
@@ -6262,7 +6322,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 249,
+        "headTokenIndex": 251,
         "label": "DET"
       },
       "lemma": "the"
@@ -6287,7 +6347,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 248,
+        "headTokenIndex": 250,
         "label": "ADVMOD"
       },
       "lemma": "most"
@@ -6312,7 +6372,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 249,
+        "headTokenIndex": 251,
         "label": "AMOD"
       },
       "lemma": "mysterious"
@@ -6337,7 +6397,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 245,
+        "headTokenIndex": 247,
         "label": "DOBJ"
       },
       "lemma": "question"
@@ -6362,7 +6422,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 249,
+        "headTokenIndex": 251,
         "label": "PREP"
       },
       "lemma": "about"
@@ -6387,7 +6447,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 252,
+        "headTokenIndex": 254,
         "label": "DET"
       },
       "lemma": "these"
@@ -6412,7 +6472,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 250,
+        "headTokenIndex": 252,
         "label": "POBJ"
       },
       "lemma": "bird"
@@ -6437,7 +6497,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 242,
+        "headTokenIndex": 244,
         "label": "P"
       },
       "lemma": ":"
@@ -6462,7 +6522,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 257,
+        "headTokenIndex": 259,
         "label": "ADVMOD"
       },
       "lemma": "How"
@@ -6487,7 +6547,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 257,
+        "headTokenIndex": 259,
         "label": "AUX"
       },
       "lemma": "do"
@@ -6512,7 +6572,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 257,
+        "headTokenIndex": 259,
         "label": "NSUBJ"
       },
       "lemma": "they"
@@ -6537,7 +6597,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 242,
+        "headTokenIndex": 244,
         "label": "PARATAXIS"
       },
       "lemma": "get"
@@ -6562,7 +6622,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 257,
+        "headTokenIndex": 259,
         "label": "PREP"
       },
       "lemma": "to"
@@ -6587,7 +6647,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 260,
+        "headTokenIndex": 262,
         "label": "AMOD"
       },
       "lemma": "Inaccessible"
@@ -6612,7 +6672,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 258,
+        "headTokenIndex": 260,
         "label": "POBJ"
       },
       "lemma": "Island"
@@ -6637,7 +6697,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 262,
+        "headTokenIndex": 264,
         "label": "AUX"
       },
       "lemma": "to"
@@ -6662,7 +6722,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 257,
+        "headTokenIndex": 259,
         "label": "XCOMP"
       },
       "lemma": "begin"
@@ -6687,7 +6747,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 262,
+        "headTokenIndex": 264,
         "label": "PREP"
       },
       "lemma": "with"
@@ -6712,7 +6772,7 @@
         "voice": "VOICE_UNKNOWN"
       },
       "dependencyEdge": {
-        "headTokenIndex": 242,
+        "headTokenIndex": 244,
         "label": "P"
       },
       "lemma": "?"
@@ -6726,7 +6786,7 @@
         "wikipedia_url": "https://en.wikipedia.org/wiki/Inaccessible_Island",
         "mid": "/m/049qg0"
       },
-      "salience": 0.3107148,
+      "salience": 0.3107325,
       "mentions": [
         {
           "text": {
@@ -6793,7 +6853,7 @@
       "name": "everywhere",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.08219895,
+      "salience": 0.08220363,
       "mentions": [
         {
           "text": {
@@ -6816,7 +6876,7 @@
       "name": "rail",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.078216195,
+      "salience": 0.07822064,
       "mentions": [
         {
           "text": {
@@ -6839,7 +6899,7 @@
       "name": "odyssey",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.058829017,
+      "salience": 0.058832366,
       "mentions": [
         {
           "text": {
@@ -6862,7 +6922,7 @@
       "name": "sound",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.058829017,
+      "salience": 0.058832366,
       "mentions": [
         {
           "text": {
@@ -6887,7 +6947,7 @@
       "metadata": {
         "mid": "/g/11f65d8f2r"
       },
-      "salience": 0.05644597,
+      "salience": 0.056449182,
       "mentions": [
         {
           "text": {
@@ -6932,7 +6992,7 @@
       "name": "birds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.04041897,
+      "salience": 0.040421274,
       "mentions": [
         {
           "text": {
@@ -6955,7 +7015,7 @@
       "name": "rails",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.038164154,
+      "salience": 0.038166326,
       "mentions": [
         {
           "text": {
@@ -6978,7 +7038,7 @@
       "name": "world",
       "type": "LOCATION",
       "metadata": {},
-      "salience": 0.02857786,
+      "salience": 0.028579487,
       "mentions": [
         {
           "text": {
@@ -7001,7 +7061,7 @@
       "name": "scientists",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.017139783,
+      "salience": 0.01714076,
       "mentions": [
         {
           "text": {
@@ -7024,7 +7084,7 @@
       "name": "berries",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010883013,
+      "salience": 0.010883632,
       "mentions": [
         {
           "text": {
@@ -7047,7 +7107,7 @@
       "name": "seeds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010883013,
+      "salience": 0.010883632,
       "mentions": [
         {
           "text": {
@@ -7070,7 +7130,7 @@
       "name": "invertebrates",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010883013,
+      "salience": 0.010883632,
       "mentions": [
         {
           "text": {
@@ -7093,7 +7153,7 @@
       "name": "vegetation",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010883013,
+      "salience": 0.010883632,
       "mentions": [
         {
           "text": {
@@ -7116,7 +7176,7 @@
       "name": "moths",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010883013,
+      "salience": 0.010883632,
       "mentions": [
         {
           "text": {
@@ -7139,7 +7199,7 @@
       "name": "worms",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010883013,
+      "salience": 0.010883632,
       "mentions": [
         {
           "text": {
@@ -7162,7 +7222,7 @@
       "name": "fieldwork trip",
       "type": "EVENT",
       "metadata": {},
-      "salience": 0.010829045,
+      "salience": 0.010829662,
       "mentions": [
         {
           "text": {
@@ -7185,7 +7245,7 @@
       "name": "birds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010421412,
+      "salience": 0.010422004,
       "mentions": [
         {
           "text": {
@@ -7208,7 +7268,7 @@
       "name": "net",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.010291639,
+      "salience": 0.010292225,
       "mentions": [
         {
           "text": {
@@ -7231,7 +7291,7 @@
       "name": "birds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009564013,
+      "salience": 0.009564557,
       "mentions": [
         {
           "text": {
@@ -7254,7 +7314,7 @@
       "name": "bird",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.009545945,
+      "salience": 0.009546488,
       "mentions": [
         {
           "text": {
@@ -7277,7 +7337,7 @@
       "name": "rails",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007972041,
+      "salience": 0.007972495,
       "mentions": [
         {
           "text": {
@@ -7292,15 +7352,15 @@
         }
       ],
       "sentiment": {
-        "magnitude": 0.6,
-        "score": -0.3
+        "magnitude": 0.5,
+        "score": -0.2
       }
     },
     {
       "name": "something",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007747998,
+      "salience": 0.0077484385,
       "mentions": [
         {
           "text": {
@@ -7323,7 +7383,7 @@
       "name": "high",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0073400387,
+      "salience": 0.0073404564,
       "mentions": [
         {
           "text": {
@@ -7346,7 +7406,7 @@
       "name": "ground",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0073400387,
+      "salience": 0.0073404564,
       "mentions": [
         {
           "text": {
@@ -7369,7 +7429,7 @@
       "name": "second",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0072866487,
+      "salience": 0.007287063,
       "mentions": [
         {
           "text": {
@@ -7392,7 +7452,7 @@
       "name": "species",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.007259244,
+      "salience": 0.007259657,
       "mentions": [
         {
           "text": {
@@ -7415,7 +7475,7 @@
       "name": "call",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.006722673,
+      "salience": 0.0067230556,
       "mentions": [
         {
           "text": {
@@ -7438,12 +7498,12 @@
       "name": "history",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0066297236,
+      "salience": 0.0066205156,
       "mentions": [
         {
           "text": {
             "content": "history",
-            "beginOffset": 1049
+            "beginOffset": 1048
           },
           "type": "COMMON",
           "sentiment": {
@@ -7461,7 +7521,7 @@
       "name": "postdoctoral research fellow",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.005059382,
+      "salience": 0.0050523505,
       "mentions": [
         {
           "text": {
@@ -7484,7 +7544,7 @@
       "name": "birds",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.005025056,
+      "salience": 0.0050188387,
       "mentions": [
         {
           "text": {
@@ -7507,10 +7567,10 @@
       "name": "Lund University",
       "type": "ORGANIZATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Lund_University",
-        "mid": "/m/04jhp"
+        "mid": "/m/04jhp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Lund_University"
       },
-      "salience": 0.0049235625,
+      "salience": 0.0049238424,
       "mentions": [
         {
           "text": {
@@ -7533,7 +7593,7 @@
       "name": "rail",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0047406177,
+      "salience": 0.0047347513,
       "mentions": [
         {
           "text": {
@@ -7553,17 +7613,17 @@
       }
     },
     {
-      "name": "Nightingale Island.",
+      "name": "Nightingale Island",
       "type": "LOCATION",
       "metadata": {
         "wikipedia_url": "https://en.wikipedia.org/wiki/Nightingale_Island",
         "mid": "/m/05cxmc"
       },
-      "salience": 0.0044650855,
+      "salience": 0.0044653392,
       "mentions": [
         {
           "text": {
-            "content": "Nightingale Island.",
+            "content": "Nightingale Island",
             "beginOffset": 1004
           },
           "type": "PROPER",
@@ -7585,7 +7645,7 @@
         "mid": "/m/0d0vqn",
         "wikipedia_url": "https://en.wikipedia.org/wiki/Sweden"
       },
-      "salience": 0.0043250886,
+      "salience": 0.0043253344,
       "mentions": [
         {
           "text": {
@@ -7608,7 +7668,7 @@
       "name": "question",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0035368165,
+      "salience": 0.0035324371,
       "mentions": [
         {
           "text": {
@@ -7631,7 +7691,7 @@
       "name": "material",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0035368165,
+      "salience": 0.0035324371,
       "mentions": [
         {
           "text": {
@@ -7654,7 +7714,7 @@
       "name": "sample",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0035368165,
+      "salience": 0.0035324371,
       "mentions": [
         {
           "text": {
@@ -7677,30 +7737,30 @@
       "name": "No one",
       "type": "PERSON",
       "metadata": {},
-      "salience": 0.003413632,
+      "salience": 0.0034088842,
       "mentions": [
         {
           "text": {
             "content": "No one",
-            "beginOffset": 1026
+            "beginOffset": 1025
           },
           "type": "COMMON",
           "sentiment": {
-            "magnitude": 0.5,
-            "score": -0.5
+            "magnitude": 0.4,
+            "score": -0.4
           }
         }
       ],
       "sentiment": {
-        "magnitude": 0.5,
-        "score": -0.5
+        "magnitude": 0.4,
+        "score": -0.4
       }
     },
     {
       "name": "recording",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0032953701,
+      "salience": 0.0032955578,
       "mentions": [
         {
           "text": {
@@ -7720,36 +7780,13 @@
       }
     },
     {
-      "name": "Institute of Ecology and Evolution",
-      "type": "ORGANIZATION",
-      "metadata": {},
-      "salience": 0.002991283,
-      "mentions": [
-        {
-          "text": {
-            "content": "Institute of Ecology and Evolution",
-            "beginOffset": 1142
-          },
-          "type": "PROPER",
-          "sentiment": {
-            "magnitude": 0,
-            "score": 0
-          }
-        }
-      ],
-      "sentiment": {
-        "magnitude": 0,
-        "score": 0
-      }
-    },
-    {
       "name": "University of Oregon",
       "type": "ORGANIZATION",
       "metadata": {
-        "mid": "/m/01n6r0",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oregon"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oregon",
+        "mid": "/m/01n6r0"
       },
-      "salience": 0.002991283,
+      "salience": 0.002987122,
       "mentions": [
         {
           "text": {
@@ -7769,10 +7806,33 @@
       }
     },
     {
+      "name": "Institute of Ecology and Evolution",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.002987122,
+      "mentions": [
+        {
+          "text": {
+            "content": "Institute of Ecology and Evolution",
+            "beginOffset": 1142
+          },
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
       "name": "net",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.002530782,
+      "salience": 0.0025309261,
       "mentions": [
         {
           "text": {
@@ -7795,7 +7855,7 @@
       "name": "evidence",
       "type": "OTHER",
       "metadata": {},
-      "salience": 0.0018451302,
+      "salience": 0.0018452352,
       "mentions": [
         {
           "text": {
@@ -7826,56 +7886,6 @@
           "text": {
             "content": "2011",
             "beginOffset": 351
-          },
-          "type": "TYPE_UNKNOWN",
-          "sentiment": {
-            "magnitude": 0,
-            "score": 0
-          }
-        }
-      ],
-      "sentiment": {
-        "magnitude": 0,
-        "score": 0
-      }
-    },
-    {
-      "name": "one",
-      "type": "NUMBER",
-      "metadata": {
-        "value": "1"
-      },
-      "salience": 0,
-      "mentions": [
-        {
-          "text": {
-            "content": "one",
-            "beginOffset": 456
-          },
-          "type": "TYPE_UNKNOWN",
-          "sentiment": {
-            "magnitude": 0,
-            "score": 0
-          }
-        }
-      ],
-      "sentiment": {
-        "magnitude": 0,
-        "score": 0
-      }
-    },
-    {
-      "name": "one",
-      "type": "NUMBER",
-      "metadata": {
-        "value": "1"
-      },
-      "salience": 0,
-      "mentions": [
-        {
-          "text": {
-            "content": "one",
-            "beginOffset": 576
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
@@ -7925,7 +7935,57 @@
         {
           "text": {
             "content": "one",
-            "beginOffset": 1029
+            "beginOffset": 576
+          },
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "name": "one",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "1"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 456
+          },
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "name": "one",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "1"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 1028
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
@@ -7941,7 +8001,7 @@
     }
   ],
   "documentSentiment": {
-    "magnitude": 2.8,
+    "magnitude": 3.1,
     "score": 0
   },
   "language": "en",
