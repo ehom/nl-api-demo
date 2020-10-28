@@ -6793,37 +6793,61 @@
             "content": "Inaccessible Island",
             "beginOffset": 12
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         },
         {
           "text": {
             "content": "Inaccessible Island",
             "beginOffset": 108
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          }
         },
         {
           "text": {
             "content": "Island",
             "beginOffset": 867
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         },
         {
           "text": {
             "content": "Inaccessible Island",
             "beginOffset": 893
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         },
         {
           "text": {
             "content": "Inaccessible Island",
             "beginOffset": 1323
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.3,
+        "score": 0
+      }
     },
     {
       "name": "everywhere",
@@ -6836,9 +6860,17 @@
             "content": "everywhere",
             "beginOffset": 133
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "rail",
@@ -6851,9 +6883,17 @@
             "content": "rail",
             "beginOffset": 128
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "odyssey",
@@ -6866,9 +6906,17 @@
             "content": "odyssey",
             "beginOffset": 55
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "sound",
@@ -6881,9 +6929,17 @@
             "content": "sound",
             "beginOffset": 95
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": 0.1
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": 0.1
+      }
     },
     {
       "name": "Martin Stervander",
@@ -6898,23 +6954,39 @@
             "content": "Martin Stervander",
             "beginOffset": 374
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         },
         {
           "text": {
             "content": "student",
             "beginOffset": 409
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         },
         {
           "text": {
             "content": "Stervander",
             "beginOffset": 1067
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": 0
+      }
     },
     {
       "name": "birds",
@@ -6927,9 +6999,17 @@
             "content": "birds",
             "beginOffset": 169
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "rails",
@@ -6942,9 +7022,17 @@
             "content": "rails",
             "beginOffset": 193
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "world",
@@ -6957,9 +7045,17 @@
             "content": "world",
             "beginOffset": 182
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "scientists",
@@ -6972,9 +7068,17 @@
             "content": "scientists",
             "beginOffset": 632
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "berries",
@@ -6987,9 +7091,17 @@
             "content": "berries",
             "beginOffset": 248
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "seeds",
@@ -7002,9 +7114,17 @@
             "content": "seeds",
             "beginOffset": 257
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "invertebrates",
@@ -7017,9 +7137,17 @@
             "content": "invertebrates",
             "beginOffset": 268
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "vegetation",
@@ -7032,9 +7160,17 @@
             "content": "vegetation",
             "beginOffset": 217
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "moths",
@@ -7047,9 +7183,17 @@
             "content": "moths",
             "beginOffset": 317
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "worms",
@@ -7062,9 +7206,17 @@
             "content": "worms",
             "beginOffset": 241
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
     },
     {
       "name": "fieldwork trip",
@@ -7077,9 +7229,17 @@
             "content": "fieldwork trip",
             "beginOffset": 333
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "birds",
@@ -7092,9 +7252,17 @@
             "content": "birds",
             "beginOffset": 625
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
     },
     {
       "name": "net",
@@ -7107,9 +7275,17 @@
             "content": "net",
             "beginOffset": 710
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.1,
+            "score": -0.1
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.1,
+        "score": -0.1
+      }
     },
     {
       "name": "birds",
@@ -7122,9 +7298,17 @@
             "content": "birds",
             "beginOffset": 699
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "bird",
@@ -7137,9 +7321,17 @@
             "content": "bird",
             "beginOffset": 760
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "rails",
@@ -7152,9 +7344,17 @@
             "content": "rails",
             "beginOffset": 874
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": -0.2
+      }
     },
     {
       "name": "something",
@@ -7167,9 +7367,17 @@
             "content": "something",
             "beginOffset": 483
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "high",
@@ -7182,9 +7390,17 @@
             "content": "high",
             "beginOffset": 653
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "ground",
@@ -7197,9 +7413,17 @@
             "content": "ground",
             "beginOffset": 666
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "second",
@@ -7212,9 +7436,17 @@
             "content": "second",
             "beginOffset": 524
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "species",
@@ -7227,9 +7459,17 @@
             "content": "species",
             "beginOffset": 306
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "call",
@@ -7242,9 +7482,17 @@
             "content": "call",
             "beginOffset": 769
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "history",
@@ -7257,9 +7505,17 @@
             "content": "history",
             "beginOffset": 1050
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "postdoctoral research fellow",
@@ -7272,9 +7528,17 @@
             "content": "postdoctoral research fellow",
             "beginOffset": 1085
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "birds",
@@ -7287,16 +7551,24 @@
             "content": "birds",
             "beginOffset": 1296
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "Lund University",
       "type": "ORGANIZATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Lund_University",
-        "mid": "/m/04jhp"
+        "mid": "/m/04jhp",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Lund_University"
       },
       "salience": 0.0049238424,
       "mentions": [
@@ -7305,9 +7577,17 @@
             "content": "Lund University",
             "beginOffset": 431
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "rail",
@@ -7320,16 +7600,24 @@
             "content": "rail",
             "beginOffset": 1201
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "Nightingale Island",
       "type": "LOCATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Nightingale_Island",
-        "mid": "/m/05cxmc"
+        "mid": "/m/05cxmc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nightingale_Island"
       },
       "salience": 0.0044653392,
       "mentions": [
@@ -7338,9 +7626,17 @@
             "content": "Nightingale Island",
             "beginOffset": 1004
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "Sweden",
@@ -7356,9 +7652,17 @@
             "content": "Sweden",
             "beginOffset": 420
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "question",
@@ -7371,9 +7675,17 @@
             "content": "question",
             "beginOffset": 1275
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "material",
@@ -7386,9 +7698,17 @@
             "content": "material",
             "beginOffset": 1218
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "sample",
@@ -7401,9 +7721,17 @@
             "content": "sample",
             "beginOffset": 1189
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "No one",
@@ -7416,9 +7744,17 @@
             "content": "No one",
             "beginOffset": 1027
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.4,
+            "score": -0.4
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.4,
+        "score": -0.4
+      }
     },
     {
       "name": "recording",
@@ -7431,16 +7767,24 @@
             "content": "recording",
             "beginOffset": 743
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "University of Oregon",
       "type": "ORGANIZATION",
       "metadata": {
-        "mid": "/m/01n6r0",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oregon"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oregon",
+        "mid": "/m/01n6r0"
       },
       "salience": 0.002987122,
       "mentions": [
@@ -7449,9 +7793,17 @@
             "content": "University of Oregon",
             "beginOffset": 1121
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "Institute of Ecology and Evolution",
@@ -7464,9 +7816,17 @@
             "content": "Institute of Ecology and Evolution",
             "beginOffset": 1146
           },
-          "type": "PROPER"
+          "type": "PROPER",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "net",
@@ -7479,9 +7839,17 @@
             "content": "net",
             "beginOffset": 849
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "evidence",
@@ -7494,9 +7862,17 @@
             "content": "evidence",
             "beginOffset": 940
           },
-          "type": "COMMON"
+          "type": "COMMON",
+          "sentiment": {
+            "magnitude": 0.2,
+            "score": -0.2
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0.2,
+        "score": -0.2
+      }
     },
     {
       "name": "2011",
@@ -7511,43 +7887,17 @@
             "content": "2011",
             "beginOffset": 351
           },
-          "type": "TYPE_UNKNOWN"
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
-    },
-    {
-      "name": "one",
-      "type": "NUMBER",
-      "metadata": {
-        "value": "1"
-      },
-      "salience": 0,
-      "mentions": [
-        {
-          "text": {
-            "content": "one",
-            "beginOffset": 576
-          },
-          "type": "TYPE_UNKNOWN"
-        }
-      ]
-    },
-    {
-      "name": "2011",
-      "type": "NUMBER",
-      "metadata": {
-        "value": "2011"
-      },
-      "salience": 0,
-      "mentions": [
-        {
-          "text": {
-            "content": "2011",
-            "beginOffset": 351
-          },
-          "type": "TYPE_UNKNOWN"
-        }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "one",
@@ -7562,9 +7912,42 @@
             "content": "one",
             "beginOffset": 456
           },
-          "type": "TYPE_UNKNOWN"
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "name": "2011",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "2011"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "2011",
+            "beginOffset": 351
+          },
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     },
     {
       "name": "one",
@@ -7579,9 +7962,42 @@
             "content": "one",
             "beginOffset": 1030
           },
-          "type": "TYPE_UNKNOWN"
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
         }
-      ]
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "name": "one",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "1"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 576
+          },
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
     }
   ],
   "documentSentiment": {
