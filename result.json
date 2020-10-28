@@ -6783,8 +6783,8 @@
       "name": "Inaccessible Island",
       "type": "LOCATION",
       "metadata": {
-        "mid": "/m/049qg0",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Inaccessible_Island"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Inaccessible_Island",
+        "mid": "/m/049qg0"
       },
       "salience": 0.3107325,
       "mentions": [
@@ -7616,8 +7616,8 @@
       "name": "Nightingale Island",
       "type": "LOCATION",
       "metadata": {
-        "mid": "/m/05cxmc",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Nightingale_Island"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nightingale_Island",
+        "mid": "/m/05cxmc"
       },
       "salience": 0.0044653392,
       "mentions": [
@@ -7642,8 +7642,8 @@
       "name": "Sweden",
       "type": "LOCATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Sweden",
-        "mid": "/m/0d0vqn"
+        "mid": "/m/0d0vqn",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sweden"
       },
       "salience": 0.0043253344,
       "mentions": [
@@ -7783,8 +7783,8 @@
       "name": "University of Oregon",
       "type": "ORGANIZATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oregon",
-        "mid": "/m/01n6r0"
+        "mid": "/m/01n6r0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Oregon"
       },
       "salience": 0.002987122,
       "mentions": [
@@ -7925,6 +7925,31 @@
       }
     },
     {
+      "name": "one",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "1"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 576
+          },
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
       "name": "2011",
       "type": "NUMBER",
       "metadata": {
@@ -7961,31 +7986,6 @@
           "text": {
             "content": "one",
             "beginOffset": 1030
-          },
-          "type": "TYPE_UNKNOWN",
-          "sentiment": {
-            "magnitude": 0,
-            "score": 0
-          }
-        }
-      ],
-      "sentiment": {
-        "magnitude": 0,
-        "score": 0
-      }
-    },
-    {
-      "name": "one",
-      "type": "NUMBER",
-      "metadata": {
-        "value": "1"
-      },
-      "salience": 0,
-      "mentions": [
-        {
-          "text": {
-            "content": "one",
-            "beginOffset": 576
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
