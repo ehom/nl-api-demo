@@ -6783,8 +6783,8 @@
       "name": "Inaccessible Island",
       "type": "LOCATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Inaccessible_Island",
-        "mid": "/m/049qg0"
+        "mid": "/m/049qg0",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Inaccessible_Island"
       },
       "salience": 0.3107325,
       "mentions": [
@@ -7616,8 +7616,8 @@
       "name": "Nightingale Island",
       "type": "LOCATION",
       "metadata": {
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Nightingale_Island",
-        "mid": "/m/05cxmc"
+        "mid": "/m/05cxmc",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Nightingale_Island"
       },
       "salience": 0.0044653392,
       "mentions": [
@@ -7642,8 +7642,8 @@
       "name": "Sweden",
       "type": "LOCATION",
       "metadata": {
-        "mid": "/m/0d0vqn",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Sweden"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Sweden",
+        "mid": "/m/0d0vqn"
       },
       "salience": 0.0043253344,
       "mentions": [
@@ -7900,17 +7900,17 @@
       }
     },
     {
-      "name": "2011",
+      "name": "one",
       "type": "NUMBER",
       "metadata": {
-        "value": "2011"
+        "value": "1"
       },
       "salience": 0,
       "mentions": [
         {
           "text": {
-            "content": "2011",
-            "beginOffset": 351
+            "content": "one",
+            "beginOffset": 456
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
@@ -7950,17 +7950,17 @@
       }
     },
     {
-      "name": "one",
+      "name": "2011",
       "type": "NUMBER",
       "metadata": {
-        "value": "1"
+        "value": "2011"
       },
       "salience": 0,
       "mentions": [
         {
           "text": {
-            "content": "one",
-            "beginOffset": 456
+            "content": "2011",
+            "beginOffset": 351
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
