@@ -5102,6 +5102,31 @@
         {
           "text": {
             "content": "19",
+            "beginOffset": 134
+          },
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "19"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "19",
             "beginOffset": 27
           },
           "type": "TYPE_UNKNOWN",
@@ -5128,31 +5153,6 @@
           "text": {
             "content": "19",
             "beginOffset": 712
-          },
-          "type": "TYPE_UNKNOWN",
-          "sentiment": {
-            "magnitude": 0,
-            "score": 0
-          }
-        }
-      ],
-      "sentiment": {
-        "magnitude": 0,
-        "score": 0
-      }
-    },
-    {
-      "name": "19",
-      "type": "NUMBER",
-      "metadata": {
-        "value": "19"
-      },
-      "salience": 0,
-      "mentions": [
-        {
-          "text": {
-            "content": "19",
-            "beginOffset": 134
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
