@@ -23,7 +23,7 @@
     {
       "text": {
         "content": "Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.",
-        "beginOffset": 246
+        "beginOffset": 245
       },
       "sentiment": {
         "magnitude": 0.4,
@@ -33,7 +33,7 @@
     {
       "text": {
         "content": "The best way to prevent and slow down transmission is to be well informed about the COVID-19 virus, the disease it causes and how it spreads.",
-        "beginOffset": 426
+        "beginOffset": 425
       },
       "sentiment": {
         "magnitude": 0.5,
@@ -43,7 +43,7 @@
     {
       "text": {
         "content": "Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.",
-        "beginOffset": 568
+        "beginOffset": 567
       },
       "sentiment": {
         "magnitude": 0.1,
@@ -53,7 +53,7 @@
     {
       "text": {
         "content": "The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette (for example, by coughing into a flexed elbow).",
-        "beginOffset": 702
+        "beginOffset": 701
       },
       "sentiment": {
         "magnitude": 0.1,
@@ -1090,7 +1090,7 @@
     {
       "text": {
         "content": "Older",
-        "beginOffset": 246
+        "beginOffset": 245
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1115,7 +1115,7 @@
     {
       "text": {
         "content": "people",
-        "beginOffset": 252
+        "beginOffset": 251
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -1140,7 +1140,7 @@
     {
       "text": {
         "content": ",",
-        "beginOffset": 258
+        "beginOffset": 257
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -1165,7 +1165,7 @@
     {
       "text": {
         "content": "and",
-        "beginOffset": 260
+        "beginOffset": 259
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -1190,7 +1190,7 @@
     {
       "text": {
         "content": "those",
-        "beginOffset": 264
+        "beginOffset": 263
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -1215,7 +1215,7 @@
     {
       "text": {
         "content": "with",
-        "beginOffset": 270
+        "beginOffset": 269
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -1240,7 +1240,7 @@
     {
       "text": {
         "content": "underlying",
-        "beginOffset": 275
+        "beginOffset": 274
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1265,7 +1265,7 @@
     {
       "text": {
         "content": "medical",
-        "beginOffset": 286
+        "beginOffset": 285
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1290,7 +1290,7 @@
     {
       "text": {
         "content": "problems",
-        "beginOffset": 294
+        "beginOffset": 293
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -1315,7 +1315,7 @@
     {
       "text": {
         "content": "like",
-        "beginOffset": 303
+        "beginOffset": 302
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -1340,7 +1340,7 @@
     {
       "text": {
         "content": "cardiovascular",
-        "beginOffset": 308
+        "beginOffset": 307
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1365,7 +1365,7 @@
     {
       "text": {
         "content": "disease",
-        "beginOffset": 323
+        "beginOffset": 322
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -1390,7 +1390,7 @@
     {
       "text": {
         "content": ",",
-        "beginOffset": 330
+        "beginOffset": 329
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -1415,7 +1415,7 @@
     {
       "text": {
         "content": "diabetes",
-        "beginOffset": 332
+        "beginOffset": 331
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -1440,7 +1440,7 @@
     {
       "text": {
         "content": ",",
-        "beginOffset": 340
+        "beginOffset": 339
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -1465,7 +1465,7 @@
     {
       "text": {
         "content": "chronic",
-        "beginOffset": 342
+        "beginOffset": 341
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1490,7 +1490,7 @@
     {
       "text": {
         "content": "respiratory",
-        "beginOffset": 350
+        "beginOffset": 349
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1515,7 +1515,7 @@
     {
       "text": {
         "content": "disease",
-        "beginOffset": 362
+        "beginOffset": 361
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -1540,7 +1540,7 @@
     {
       "text": {
         "content": ",",
-        "beginOffset": 369
+        "beginOffset": 368
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -1565,7 +1565,7 @@
     {
       "text": {
         "content": "and",
-        "beginOffset": 371
+        "beginOffset": 370
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -1590,7 +1590,7 @@
     {
       "text": {
         "content": "cancer",
-        "beginOffset": 375
+        "beginOffset": 374
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -1615,7 +1615,7 @@
     {
       "text": {
         "content": "are",
-        "beginOffset": 382
+        "beginOffset": 381
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -1640,7 +1640,7 @@
     {
       "text": {
         "content": "more",
-        "beginOffset": 386
+        "beginOffset": 385
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -1665,7 +1665,7 @@
     {
       "text": {
         "content": "likely",
-        "beginOffset": 391
+        "beginOffset": 390
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1690,7 +1690,7 @@
     {
       "text": {
         "content": "to",
-        "beginOffset": 398
+        "beginOffset": 397
       },
       "partOfSpeech": {
         "tag": "PRT",
@@ -1715,7 +1715,7 @@
     {
       "text": {
         "content": "develop",
-        "beginOffset": 401
+        "beginOffset": 400
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -1740,7 +1740,7 @@
     {
       "text": {
         "content": "serious",
-        "beginOffset": 409
+        "beginOffset": 408
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1765,7 +1765,7 @@
     {
       "text": {
         "content": "illness",
-        "beginOffset": 417
+        "beginOffset": 416
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -1790,7 +1790,7 @@
     {
       "text": {
         "content": ".",
-        "beginOffset": 424
+        "beginOffset": 423
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -1815,7 +1815,7 @@
     {
       "text": {
         "content": "The",
-        "beginOffset": 426
+        "beginOffset": 425
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -1840,7 +1840,7 @@
     {
       "text": {
         "content": "best",
-        "beginOffset": 430
+        "beginOffset": 429
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -1865,7 +1865,7 @@
     {
       "text": {
         "content": "way",
-        "beginOffset": 435
+        "beginOffset": 434
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -1890,7 +1890,7 @@
     {
       "text": {
         "content": "to",
-        "beginOffset": 439
+        "beginOffset": 438
       },
       "partOfSpeech": {
         "tag": "PRT",
@@ -1915,7 +1915,7 @@
     {
       "text": {
         "content": "prevent",
-        "beginOffset": 442
+        "beginOffset": 441
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -1940,7 +1940,7 @@
     {
       "text": {
         "content": "and",
-        "beginOffset": 450
+        "beginOffset": 449
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -1965,7 +1965,7 @@
     {
       "text": {
         "content": "slow",
-        "beginOffset": 454
+        "beginOffset": 453
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -1990,7 +1990,7 @@
     {
       "text": {
         "content": "down",
-        "beginOffset": 459
+        "beginOffset": 458
       },
       "partOfSpeech": {
         "tag": "PRT",
@@ -2015,7 +2015,7 @@
     {
       "text": {
         "content": "transmission",
-        "beginOffset": 464
+        "beginOffset": 463
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2040,7 +2040,7 @@
     {
       "text": {
         "content": "is",
-        "beginOffset": 477
+        "beginOffset": 476
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2065,7 +2065,7 @@
     {
       "text": {
         "content": "to",
-        "beginOffset": 480
+        "beginOffset": 479
       },
       "partOfSpeech": {
         "tag": "PRT",
@@ -2090,7 +2090,7 @@
     {
       "text": {
         "content": "be",
-        "beginOffset": 483
+        "beginOffset": 482
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2115,7 +2115,7 @@
     {
       "text": {
         "content": "well",
-        "beginOffset": 486
+        "beginOffset": 485
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -2140,7 +2140,7 @@
     {
       "text": {
         "content": "informed",
-        "beginOffset": 491
+        "beginOffset": 490
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2165,7 +2165,7 @@
     {
       "text": {
         "content": "about",
-        "beginOffset": 500
+        "beginOffset": 499
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -2190,7 +2190,7 @@
     {
       "text": {
         "content": "the",
-        "beginOffset": 506
+        "beginOffset": 505
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -2215,7 +2215,7 @@
     {
       "text": {
         "content": "COVID",
-        "beginOffset": 510
+        "beginOffset": 509
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2240,7 +2240,7 @@
     {
       "text": {
         "content": "-",
-        "beginOffset": 515
+        "beginOffset": 514
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -2265,7 +2265,7 @@
     {
       "text": {
         "content": "19",
-        "beginOffset": 516
+        "beginOffset": 515
       },
       "partOfSpeech": {
         "tag": "NUM",
@@ -2290,7 +2290,7 @@
     {
       "text": {
         "content": "virus",
-        "beginOffset": 519
+        "beginOffset": 518
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2315,7 +2315,7 @@
     {
       "text": {
         "content": ",",
-        "beginOffset": 524
+        "beginOffset": 523
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -2340,7 +2340,7 @@
     {
       "text": {
         "content": "the",
-        "beginOffset": 526
+        "beginOffset": 525
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -2365,7 +2365,7 @@
     {
       "text": {
         "content": "disease",
-        "beginOffset": 530
+        "beginOffset": 529
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2390,7 +2390,7 @@
     {
       "text": {
         "content": "it",
-        "beginOffset": 538
+        "beginOffset": 537
       },
       "partOfSpeech": {
         "tag": "PRON",
@@ -2415,7 +2415,7 @@
     {
       "text": {
         "content": "causes",
-        "beginOffset": 541
+        "beginOffset": 540
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2440,7 +2440,7 @@
     {
       "text": {
         "content": "and",
-        "beginOffset": 548
+        "beginOffset": 547
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -2465,7 +2465,7 @@
     {
       "text": {
         "content": "how",
-        "beginOffset": 552
+        "beginOffset": 551
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -2490,7 +2490,7 @@
     {
       "text": {
         "content": "it",
-        "beginOffset": 556
+        "beginOffset": 555
       },
       "partOfSpeech": {
         "tag": "PRON",
@@ -2515,7 +2515,7 @@
     {
       "text": {
         "content": "spreads",
-        "beginOffset": 559
+        "beginOffset": 558
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2540,7 +2540,7 @@
     {
       "text": {
         "content": ".",
-        "beginOffset": 566
+        "beginOffset": 565
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -2565,7 +2565,7 @@
     {
       "text": {
         "content": "Protect",
-        "beginOffset": 568
+        "beginOffset": 567
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2590,7 +2590,7 @@
     {
       "text": {
         "content": "yourself",
-        "beginOffset": 576
+        "beginOffset": 575
       },
       "partOfSpeech": {
         "tag": "PRON",
@@ -2615,7 +2615,7 @@
     {
       "text": {
         "content": "and",
-        "beginOffset": 585
+        "beginOffset": 584
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -2640,7 +2640,7 @@
     {
       "text": {
         "content": "others",
-        "beginOffset": 589
+        "beginOffset": 588
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2665,7 +2665,7 @@
     {
       "text": {
         "content": "from",
-        "beginOffset": 596
+        "beginOffset": 595
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -2690,7 +2690,7 @@
     {
       "text": {
         "content": "infection",
-        "beginOffset": 601
+        "beginOffset": 600
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2715,7 +2715,7 @@
     {
       "text": {
         "content": "by",
-        "beginOffset": 611
+        "beginOffset": 610
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -2740,7 +2740,7 @@
     {
       "text": {
         "content": "washing",
-        "beginOffset": 614
+        "beginOffset": 613
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2765,7 +2765,7 @@
     {
       "text": {
         "content": "your",
-        "beginOffset": 622
+        "beginOffset": 621
       },
       "partOfSpeech": {
         "tag": "PRON",
@@ -2790,7 +2790,7 @@
     {
       "text": {
         "content": "hands",
-        "beginOffset": 627
+        "beginOffset": 626
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2815,7 +2815,7 @@
     {
       "text": {
         "content": "or",
-        "beginOffset": 633
+        "beginOffset": 632
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -2840,7 +2840,7 @@
     {
       "text": {
         "content": "using",
-        "beginOffset": 636
+        "beginOffset": 635
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2865,7 +2865,7 @@
     {
       "text": {
         "content": "an",
-        "beginOffset": 642
+        "beginOffset": 641
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -2890,7 +2890,7 @@
     {
       "text": {
         "content": "alcohol",
-        "beginOffset": 645
+        "beginOffset": 644
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2915,7 +2915,7 @@
     {
       "text": {
         "content": "based",
-        "beginOffset": 653
+        "beginOffset": 652
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -2940,7 +2940,7 @@
     {
       "text": {
         "content": "rub",
-        "beginOffset": 659
+        "beginOffset": 658
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -2965,7 +2965,7 @@
     {
       "text": {
         "content": "frequently",
-        "beginOffset": 663
+        "beginOffset": 662
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -2990,7 +2990,7 @@
     {
       "text": {
         "content": "and",
-        "beginOffset": 674
+        "beginOffset": 673
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -3015,7 +3015,7 @@
     {
       "text": {
         "content": "not",
-        "beginOffset": 678
+        "beginOffset": 677
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -3040,7 +3040,7 @@
     {
       "text": {
         "content": "touching",
-        "beginOffset": 682
+        "beginOffset": 681
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -3065,7 +3065,7 @@
     {
       "text": {
         "content": "your",
-        "beginOffset": 691
+        "beginOffset": 690
       },
       "partOfSpeech": {
         "tag": "PRON",
@@ -3090,7 +3090,7 @@
     {
       "text": {
         "content": "face",
-        "beginOffset": 696
+        "beginOffset": 695
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3115,7 +3115,7 @@
     {
       "text": {
         "content": ".",
-        "beginOffset": 700
+        "beginOffset": 699
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -3140,7 +3140,7 @@
     {
       "text": {
         "content": "The",
-        "beginOffset": 702
+        "beginOffset": 701
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -3165,7 +3165,7 @@
     {
       "text": {
         "content": "COVID",
-        "beginOffset": 706
+        "beginOffset": 705
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3190,7 +3190,7 @@
     {
       "text": {
         "content": "-",
-        "beginOffset": 711
+        "beginOffset": 710
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -3215,7 +3215,7 @@
     {
       "text": {
         "content": "19",
-        "beginOffset": 712
+        "beginOffset": 711
       },
       "partOfSpeech": {
         "tag": "NUM",
@@ -3240,7 +3240,7 @@
     {
       "text": {
         "content": "virus",
-        "beginOffset": 715
+        "beginOffset": 714
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3265,7 +3265,7 @@
     {
       "text": {
         "content": "spreads",
-        "beginOffset": 721
+        "beginOffset": 720
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -3290,7 +3290,7 @@
     {
       "text": {
         "content": "primarily",
-        "beginOffset": 729
+        "beginOffset": 728
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -3315,7 +3315,7 @@
     {
       "text": {
         "content": "through",
-        "beginOffset": 739
+        "beginOffset": 738
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -3340,7 +3340,7 @@
     {
       "text": {
         "content": "droplets",
-        "beginOffset": 747
+        "beginOffset": 746
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3365,7 +3365,7 @@
     {
       "text": {
         "content": "of",
-        "beginOffset": 756
+        "beginOffset": 755
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -3390,7 +3390,7 @@
     {
       "text": {
         "content": "saliva",
-        "beginOffset": 759
+        "beginOffset": 758
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3415,7 +3415,7 @@
     {
       "text": {
         "content": "or",
-        "beginOffset": 766
+        "beginOffset": 765
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -3440,7 +3440,7 @@
     {
       "text": {
         "content": "discharge",
-        "beginOffset": 769
+        "beginOffset": 768
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3465,7 +3465,7 @@
     {
       "text": {
         "content": "from",
-        "beginOffset": 779
+        "beginOffset": 778
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -3490,7 +3490,7 @@
     {
       "text": {
         "content": "the",
-        "beginOffset": 784
+        "beginOffset": 783
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -3515,7 +3515,7 @@
     {
       "text": {
         "content": "nose",
-        "beginOffset": 788
+        "beginOffset": 787
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3540,7 +3540,7 @@
     {
       "text": {
         "content": "when",
-        "beginOffset": 793
+        "beginOffset": 792
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -3565,7 +3565,7 @@
     {
       "text": {
         "content": "an",
-        "beginOffset": 798
+        "beginOffset": 797
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -3590,7 +3590,7 @@
     {
       "text": {
         "content": "infected",
-        "beginOffset": 801
+        "beginOffset": 800
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -3615,7 +3615,7 @@
     {
       "text": {
         "content": "person",
-        "beginOffset": 810
+        "beginOffset": 809
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3640,7 +3640,7 @@
     {
       "text": {
         "content": "coughs",
-        "beginOffset": 817
+        "beginOffset": 816
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -3665,7 +3665,7 @@
     {
       "text": {
         "content": "or",
-        "beginOffset": 824
+        "beginOffset": 823
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -3690,7 +3690,7 @@
     {
       "text": {
         "content": "sneezes",
-        "beginOffset": 827
+        "beginOffset": 826
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3715,7 +3715,7 @@
     {
       "text": {
         "content": ",",
-        "beginOffset": 834
+        "beginOffset": 833
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -3740,7 +3740,7 @@
     {
       "text": {
         "content": "so",
-        "beginOffset": 836
+        "beginOffset": 835
       },
       "partOfSpeech": {
         "tag": "CONJ",
@@ -3765,7 +3765,7 @@
     {
       "text": {
         "content": "it",
-        "beginOffset": 839
+        "beginOffset": 838
       },
       "partOfSpeech": {
         "tag": "PRON",
@@ -3790,7 +3790,7 @@
     {
       "text": {
         "content": "’s",
-        "beginOffset": 841
+        "beginOffset": 840
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -3815,7 +3815,7 @@
     {
       "text": {
         "content": "important",
-        "beginOffset": 846
+        "beginOffset": 845
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -3840,7 +3840,7 @@
     {
       "text": {
         "content": "that",
-        "beginOffset": 856
+        "beginOffset": 855
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -3865,7 +3865,7 @@
     {
       "text": {
         "content": "you",
-        "beginOffset": 861
+        "beginOffset": 860
       },
       "partOfSpeech": {
         "tag": "PRON",
@@ -3890,7 +3890,7 @@
     {
       "text": {
         "content": "also",
-        "beginOffset": 865
+        "beginOffset": 864
       },
       "partOfSpeech": {
         "tag": "ADV",
@@ -3915,7 +3915,7 @@
     {
       "text": {
         "content": "practice",
-        "beginOffset": 870
+        "beginOffset": 869
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -3940,7 +3940,7 @@
     {
       "text": {
         "content": "respiratory",
-        "beginOffset": 879
+        "beginOffset": 878
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -3965,7 +3965,7 @@
     {
       "text": {
         "content": "etiquette",
-        "beginOffset": 891
+        "beginOffset": 890
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -3990,7 +3990,7 @@
     {
       "text": {
         "content": "(",
-        "beginOffset": 901
+        "beginOffset": 900
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -4015,7 +4015,7 @@
     {
       "text": {
         "content": "for",
-        "beginOffset": 902
+        "beginOffset": 901
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -4040,7 +4040,7 @@
     {
       "text": {
         "content": "example",
-        "beginOffset": 906
+        "beginOffset": 905
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -4065,7 +4065,7 @@
     {
       "text": {
         "content": ",",
-        "beginOffset": 913
+        "beginOffset": 912
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -4090,7 +4090,7 @@
     {
       "text": {
         "content": "by",
-        "beginOffset": 915
+        "beginOffset": 914
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -4115,7 +4115,7 @@
     {
       "text": {
         "content": "coughing",
-        "beginOffset": 918
+        "beginOffset": 917
       },
       "partOfSpeech": {
         "tag": "VERB",
@@ -4140,7 +4140,7 @@
     {
       "text": {
         "content": "into",
-        "beginOffset": 927
+        "beginOffset": 926
       },
       "partOfSpeech": {
         "tag": "ADP",
@@ -4165,7 +4165,7 @@
     {
       "text": {
         "content": "a",
-        "beginOffset": 932
+        "beginOffset": 931
       },
       "partOfSpeech": {
         "tag": "DET",
@@ -4190,7 +4190,7 @@
     {
       "text": {
         "content": "flexed",
-        "beginOffset": 934
+        "beginOffset": 933
       },
       "partOfSpeech": {
         "tag": "ADJ",
@@ -4215,7 +4215,7 @@
     {
       "text": {
         "content": "elbow",
-        "beginOffset": 941
+        "beginOffset": 940
       },
       "partOfSpeech": {
         "tag": "NOUN",
@@ -4240,7 +4240,7 @@
     {
       "text": {
         "content": ")",
-        "beginOffset": 946
+        "beginOffset": 945
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -4265,7 +4265,7 @@
     {
       "text": {
         "content": ".",
-        "beginOffset": 947
+        "beginOffset": 946
       },
       "partOfSpeech": {
         "tag": "PUNCT",
@@ -4343,7 +4343,7 @@
         {
           "text": {
             "content": "virus",
-            "beginOffset": 519
+            "beginOffset": 518
           },
           "type": "COMMON",
           "sentiment": {
@@ -4354,7 +4354,7 @@
         {
           "text": {
             "content": "virus",
-            "beginOffset": 715
+            "beginOffset": 714
           },
           "type": "COMMON",
           "sentiment": {
@@ -4400,7 +4400,7 @@
         {
           "text": {
             "content": "way",
-            "beginOffset": 435
+            "beginOffset": 434
           },
           "type": "COMMON",
           "sentiment": {
@@ -4411,7 +4411,7 @@
         {
           "text": {
             "content": "disease",
-            "beginOffset": 530
+            "beginOffset": 529
           },
           "type": "COMMON",
           "sentiment": {
@@ -4445,7 +4445,7 @@
         {
           "text": {
             "content": "COVID",
-            "beginOffset": 510
+            "beginOffset": 509
           },
           "type": "PROPER",
           "sentiment": {
@@ -4502,7 +4502,7 @@
         {
           "text": {
             "content": "COVID",
-            "beginOffset": 706
+            "beginOffset": 705
           },
           "type": "PROPER",
           "sentiment": {
@@ -4548,7 +4548,7 @@
         {
           "text": {
             "content": "people",
-            "beginOffset": 252
+            "beginOffset": 251
           },
           "type": "COMMON",
           "sentiment": {
@@ -4571,7 +4571,7 @@
         {
           "text": {
             "content": "chronic respiratory disease",
-            "beginOffset": 342
+            "beginOffset": 341
           },
           "type": "COMMON",
           "sentiment": {
@@ -4594,7 +4594,7 @@
         {
           "text": {
             "content": "cardiovascular disease",
-            "beginOffset": 308
+            "beginOffset": 307
           },
           "type": "COMMON",
           "sentiment": {
@@ -4617,7 +4617,7 @@
         {
           "text": {
             "content": "illness",
-            "beginOffset": 417
+            "beginOffset": 416
           },
           "type": "COMMON",
           "sentiment": {
@@ -4640,7 +4640,7 @@
         {
           "text": {
             "content": "diabetes",
-            "beginOffset": 332
+            "beginOffset": 331
           },
           "type": "COMMON",
           "sentiment": {
@@ -4663,7 +4663,7 @@
         {
           "text": {
             "content": "cancer",
-            "beginOffset": 375
+            "beginOffset": 374
           },
           "type": "COMMON",
           "sentiment": {
@@ -4686,7 +4686,7 @@
         {
           "text": {
             "content": "problems",
-            "beginOffset": 294
+            "beginOffset": 293
           },
           "type": "COMMON",
           "sentiment": {
@@ -4709,7 +4709,7 @@
         {
           "text": {
             "content": "transmission",
-            "beginOffset": 464
+            "beginOffset": 463
           },
           "type": "COMMON",
           "sentiment": {
@@ -4732,7 +4732,7 @@
         {
           "text": {
             "content": "infection",
-            "beginOffset": 601
+            "beginOffset": 600
           },
           "type": "COMMON",
           "sentiment": {
@@ -4755,7 +4755,7 @@
         {
           "text": {
             "content": "others",
-            "beginOffset": 589
+            "beginOffset": 588
           },
           "type": "COMMON",
           "sentiment": {
@@ -4801,7 +4801,7 @@
         {
           "text": {
             "content": "nose",
-            "beginOffset": 788
+            "beginOffset": 787
           },
           "type": "COMMON",
           "sentiment": {
@@ -4824,7 +4824,7 @@
         {
           "text": {
             "content": "sneezes",
-            "beginOffset": 827
+            "beginOffset": 826
           },
           "type": "COMMON",
           "sentiment": {
@@ -4847,7 +4847,7 @@
         {
           "text": {
             "content": "person",
-            "beginOffset": 810
+            "beginOffset": 809
           },
           "type": "COMMON",
           "sentiment": {
@@ -4870,7 +4870,7 @@
         {
           "text": {
             "content": "discharge",
-            "beginOffset": 769
+            "beginOffset": 768
           },
           "type": "COMMON",
           "sentiment": {
@@ -4893,7 +4893,7 @@
         {
           "text": {
             "content": "droplets",
-            "beginOffset": 747
+            "beginOffset": 746
           },
           "type": "COMMON",
           "sentiment": {
@@ -4916,7 +4916,7 @@
         {
           "text": {
             "content": "saliva",
-            "beginOffset": 759
+            "beginOffset": 758
           },
           "type": "COMMON",
           "sentiment": {
@@ -4939,7 +4939,7 @@
         {
           "text": {
             "content": "example",
-            "beginOffset": 906
+            "beginOffset": 905
           },
           "type": "COMMON",
           "sentiment": {
@@ -4962,7 +4962,7 @@
         {
           "text": {
             "content": "etiquette",
-            "beginOffset": 891
+            "beginOffset": 890
           },
           "type": "COMMON",
           "sentiment": {
@@ -4985,7 +4985,7 @@
         {
           "text": {
             "content": "elbow",
-            "beginOffset": 941
+            "beginOffset": 940
           },
           "type": "COMMON",
           "sentiment": {
@@ -5008,7 +5008,7 @@
         {
           "text": {
             "content": "rub",
-            "beginOffset": 659
+            "beginOffset": 658
           },
           "type": "COMMON",
           "sentiment": {
@@ -5031,7 +5031,7 @@
         {
           "text": {
             "content": "hands",
-            "beginOffset": 627
+            "beginOffset": 626
           },
           "type": "COMMON",
           "sentiment": {
@@ -5054,7 +5054,7 @@
         {
           "text": {
             "content": "face",
-            "beginOffset": 696
+            "beginOffset": 695
           },
           "type": "COMMON",
           "sentiment": {
@@ -5077,7 +5077,7 @@
         {
           "text": {
             "content": "alcohol",
-            "beginOffset": 645
+            "beginOffset": 644
           },
           "type": "COMMON",
           "sentiment": {
@@ -5102,7 +5102,7 @@
         {
           "text": {
             "content": "19",
-            "beginOffset": 27
+            "beginOffset": 515
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
@@ -5127,32 +5127,7 @@
         {
           "text": {
             "content": "19",
-            "beginOffset": 516
-          },
-          "type": "TYPE_UNKNOWN",
-          "sentiment": {
-            "magnitude": 0,
-            "score": 0
-          }
-        }
-      ],
-      "sentiment": {
-        "magnitude": 0,
-        "score": 0
-      }
-    },
-    {
-      "name": "19",
-      "type": "NUMBER",
-      "metadata": {
-        "value": "19"
-      },
-      "salience": 0,
-      "mentions": [
-        {
-          "text": {
-            "content": "19",
-            "beginOffset": 712
+            "beginOffset": 711
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
@@ -5178,6 +5153,31 @@
           "text": {
             "content": "19",
             "beginOffset": 134
+          },
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
+      "name": "19",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "19"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "19",
+            "beginOffset": 27
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
