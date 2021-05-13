@@ -4600,8 +4600,8 @@
       "name": "Colonial Pipeline",
       "type": "ORGANIZATION",
       "metadata": {
-        "mid": "/m/08fdk5",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Colonial_Pipeline"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Colonial_Pipeline",
+        "mid": "/m/08fdk5"
       },
       "salience": 0.019788051,
       "mentions": [
@@ -5054,8 +5054,8 @@
       "name": "Texas",
       "type": "LOCATION",
       "metadata": {
-        "mid": "/m/07b_l",
-        "wikipedia_url": "https://en.wikipedia.org/wiki/Texas"
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Texas",
+        "mid": "/m/07b_l"
       },
       "salience": 0.005597216,
       "mentions": [
@@ -5307,6 +5307,31 @@
       }
     },
     {
+      "name": "one",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "1"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "one",
+            "beginOffset": 29
+          },
+          "type": "TYPE_UNKNOWN",
+          "sentiment": {
+            "magnitude": 0,
+            "score": 0
+          }
+        }
+      ],
+      "sentiment": {
+        "magnitude": 0,
+        "score": 0
+      }
+    },
+    {
       "name": "8",
       "type": "NUMBER",
       "metadata": {
@@ -5343,31 +5368,6 @@
           "text": {
             "content": "10",
             "beginOffset": 720
-          },
-          "type": "TYPE_UNKNOWN",
-          "sentiment": {
-            "magnitude": 0,
-            "score": 0
-          }
-        }
-      ],
-      "sentiment": {
-        "magnitude": 0,
-        "score": 0
-      }
-    },
-    {
-      "name": "one",
-      "type": "NUMBER",
-      "metadata": {
-        "value": "1"
-      },
-      "salience": 0,
-      "mentions": [
-        {
-          "text": {
-            "content": "one",
-            "beginOffset": 29
           },
           "type": "TYPE_UNKNOWN",
           "sentiment": {
